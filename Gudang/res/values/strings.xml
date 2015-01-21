@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gudang</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_manipulasi">Manipulasi</string>
+    <string name="title_activity_input_barang">InputBarang</string>
+
+    <string-array name="jenis_barang">
+        <item>-Pilih-</item>
+        <item>Makanan</item>
+        <item>Minuman</item>
+        <item>Kosmetik</item>
+    </string-array>
+
+    <string name="title_activity_output_barang">OutputBarang</string>
+    <string name="title_activity_list_barang">ListBarang</string>
+    <string name="title_activity_input_retailer">InputRetailer</string>
+    <string name="title_activity_list_retailer">ListRetailer</string>
+    <string name="title_activity_hapus_barang">HapusBarang</string>
+
+</resources>
